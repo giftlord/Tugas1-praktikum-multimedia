@@ -1,5 +1,6 @@
-/* body{
-    background: url(wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700090594.jpg);
+ body{
+background:url(img/pexels-marcelo-jaboo-696407.jpg);
+background-size: cover;
 }
 
 .container{
@@ -15,7 +16,6 @@
 
 
 footer{
-    margin-top: 150px;
     justify-content: center;
     display: flex;
     align-items: center;
@@ -23,7 +23,13 @@ footer{
 }
 
 @media(max-width:567px){
+    body{
+    background-size: auto;
+}
+}
+
+/* @media(max-width:567px){
     footer{
-        margin-top: 350px;
-    }
-} */
+        /* margin-top: 350px; */
+    
+/* }  */ 
