@@ -1,0 +1,29 @@
+/* body{
+    background: url(wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700090594.jpg);
+}
+
+.container{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    color: white;
+    margin-top: 70px;
+}
+
+
+
+
+footer{
+    margin-top: 150px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+@media(max-width:567px){
+    footer{
+        margin-top: 350px;
+    }
+} */
